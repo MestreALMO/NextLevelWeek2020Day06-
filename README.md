@@ -15,8 +15,10 @@ And here is how the web should be when done:
 This is the extra steps, what it is recommended to add in the app:
 ![NLW2020App](https://github.com/MestreALMO/NextLevelWeek2020Day06Plus/blob/master/_ReadmeImgs/Screenshot_1.png?raw=true)
 
+<br />
+
 What it is recommended to add in the web:
-![NLW2020App](https://github.com/MestreALMO/NextLevelWeek2020Day06Plus/blob/master/_ReadmeImgs/Screenshot_2.png?raw=true
+![NLW2020App](https://github.com/MestreALMO/NextLevelWeek2020Day06Plus/blob/master/_ReadmeImgs/Screenshot_2.png?raw=true)
 
 The extra steps are going to be done by me without help and there is not a date to finish, i can always add something else when and if I feel the need to. So this is called the day 6 +, cause of that is everything of the day six and after.
 
