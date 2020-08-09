@@ -22,10 +22,10 @@ The extra steps are going to be done by me without help and there is not a date 
 
 <br />-----<br />
 
-In case you want to know exactly what happened in the other days here are my links that display exactly what happened:
-Day 01: https://github.com/MestreALMO/NextLevelWeek2020Day01
-Day 02: https://github.com/MestreALMO/NextLevelWeek2020Day02
-Day 03: https://github.com/MestreALMO/NextLevelWeek2020Day03
-Day 04: https://github.com/MestreALMO/NextLevelWeek2020Day04
-Day 05: https://github.com/MestreALMO/NextLevelWeek2020Day05
-Day 06+: https://github.com/MestreALMO/NextLevelWeek2020Day06Plus
+In case you want to know exactly what happened in the other days here are my links that display exactly what happened:<br />
+Day 01: https://github.com/MestreALMO/NextLevelWeek2020Day01 <br />
+Day 02: https://github.com/MestreALMO/NextLevelWeek2020Day02 <br />
+Day 03: https://github.com/MestreALMO/NextLevelWeek2020Day03 <br />
+Day 04: https://github.com/MestreALMO/NextLevelWeek2020Day04 <br />
+Day 05: https://github.com/MestreALMO/NextLevelWeek2020Day05 <br />
+Day 06+: https://github.com/MestreALMO/NextLevelWeek2020Day06Plus <br />
